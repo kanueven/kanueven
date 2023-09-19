@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kanueven
-- 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning on django as my web framework
+Java,Kotlin mobile developer
 
 
 <!---
